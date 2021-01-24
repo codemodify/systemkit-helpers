@@ -29,6 +29,5 @@ __Files and Folders__ 	| Operations on files and folders								| [github.com/co
 __GUID__ 				| Guid															| [github.com/codemodify/systemkit-helpers-guid](https://github.com/codemodify/systemkit-helpers-guid)
 __Networking__ 			| Networking													| [github.com/codemodify/systemkit-helpers-networking](https://github.com/codemodify/systemkit-helpers-networking)
 __Exec & User__ 		| OS Helpers, like exec and user								| [github.com/codemodify/systemkit-helpers-os](https://github.com/codemodify/systemkit-helpers-os)
-__Reflection__ 			| Reflection													| [github.com/codemodify/systemkit-helpers-reflection](https://github.com/codemodify/systemkit-helpers-reflection)
 __Remote__ 				| Remote Execution												| [github.com/codemodify/systemkit-helpers-remote](https://github.com/codemodify/systemkit-helpers-remote)
 __Remote__ 				| Remote Execution												| [github.com/codemodify/systemkit-helpers-remote](https://github.com/codemodify/systemkit-helpers-remote)
